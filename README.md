@@ -1,1 +1,1 @@
-# PSPJ-Hacakthon-Phase-1
+# PSPJ-Hacakthon
